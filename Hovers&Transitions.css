@@ -1,0 +1,63 @@
+.Yt{
+    background-color: #c90000;
+    color: white;
+    border:none;
+    font-weight: bold;
+    height:40px;
+    width:100px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 8px;
+    transition: opacity 0.8s;
+}
+.Yt:hover{
+    opacity:0.6;
+}
+.Yt:active{
+    opacity:0.3;
+}
+
+.Linkedin{
+    background-color: white;
+    color:rgb(0, 110, 255);
+    border-color: rgb(0, 97, 224);
+    font-weight: bold;
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 1px;
+    height:40px;
+    width:60px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-right: 8px;
+    transition: background-color 0.8s, color 0.8s;
+}
+.Linkedin:hover{
+    background-color:rgb(0, 97, 224);
+    color:white;
+}
+.Linkedin:active{
+    opacity:0.8;
+}
+
+.X{
+    background-color: rgb(2,158,255);
+    color:white;
+    font-weight: bold;
+    font-size:15px;
+    border:none;
+    border-radius:19px;
+    height:40px;
+    width:74px;
+    margin-top: 10px;
+    cursor:pointer;
+    transition: box-shadow 0.6s, opacity 0.1s;
+}
+.X:hover{
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.15);
+}
+.X:active{
+    opacity:0.7;
+}

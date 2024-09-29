@@ -1,0 +1,115 @@
+.Uber{
+    background-color: black;
+    color:white;
+    border:none;
+    height:50px;
+    width:100px;
+    border-radius: 1px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    cursor:pointer;
+}
+.Amazon{
+    background-color: rgb(255,216,20);
+    color:black;
+    font-weight: bold;
+    border:none;
+    border-radius: 40px;
+    height:30px;
+    width:150px;
+    cursor:pointer;
+    margin-right: 10px;
+}
+.Github{
+    background-color: rgb(46,164,79);
+    color:white;
+    font-weight: bold;
+    border:none;
+    border-radius: 8px;
+    height:40px;
+    width:74px;
+    cursor:pointer;
+
+}
+.Bootstrap{
+    background-color: rgb(121,82,179);
+    color:white;
+    font-weight: bold;
+    border:none;
+    border-radius:4px;
+    height:40px;
+    width:130px;
+    cursor:pointer;
+    margin-right: 3px;
+}
+.Boot{
+    background-color: white;
+    color:rgb(108,117,125);
+    font-weight: bold;
+    height:40px;
+    width:130px;
+    border-style: solid;
+    border-width:1px;
+    border-radius:4px;
+    cursor:pointer;
+    margin-right: 10px;
+}
+.Linkedin{
+    background-color: rgb(10,102,194);
+    color:white;
+    font-weight: bold;
+    border:none;
+    border-radius:36px;
+    height:40px;
+    width:230px;
+    margin-right:3px;
+    cursor:pointer;
+}
+.Link{
+    background-color: white;
+    color:rgb(10,102,194);
+    font-weight:bold;
+    border-color:rgb(10,102,194);
+    border-radius:36px;
+    height:40px;
+    width:80px;
+    border-style:solid;
+    cursor:pointer;
+}
+.price{
+    color:rgb(0,118,0);
+    font-weight: bold;
+}
+.to{
+    color:rgb(0,113,133);
+}
+.cart{
+    background-color:rgb(255,216,20);
+    color:black;
+    font-weight:bold;
+    height:36px;
+    width:130px;
+    border:none;
+    border-radius:60px;
+    margin-right:3px;
+    cursor:pointer;
+}
+.buy{
+    background-color: rgb(255,164,28);
+    color:black;
+    font-weight: bold;
+    height:36px;
+    width:130px;
+    border:none;
+    border-radius:60px;
+    cursor:pointer;
+
+}
+.product{
+    box-sizing: border-box;
+    border:solid black;
+    padding:30px;
+    width: 400px;
+    height: 300px;
+}

@@ -1,0 +1,38 @@
+.Yt{
+    background-color: #c90000;
+    color: white;
+    border:none;
+    height:40px;
+    width:100px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 8px;
+    
+}
+.Linkedin{
+    background-color: white;
+    color:rgb(0, 110, 255);
+    border-color: rgb(0, 97, 224);
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 1px;
+    height:40px;
+    width:60px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-right: 8px;
+}
+.X{
+    background-color: rgb(2,158,255);
+    color:white;
+    font-weight: bold;
+    font-size:15px;
+    border:none;
+    border-radius:19px;
+    height:40px;
+    width:74px;
+    margin-top: 10px;
+    cursor:pointer;
+}

@@ -9,9 +9,16 @@
     margin-right: 10px;
     margin-bottom: 10px;
     cursor:pointer;
+    transition:opacity 0.7s;
+}
+.Uber:hover{
+    opacity:0.8;
+}
+.Uber:active{
+    opacity:0.5;
 }
 .Amazon{
-    background-color: rgb(255,216,20);
+    background-color: rgb(249, 219, 71);
     color:black;
     font-weight: bold;
     border:none;
@@ -20,6 +27,11 @@
     width:150px;
     cursor:pointer;
     margin-right: 10px;
+    transition: background-color 0.5s;
+}
+.Amazon:hover{
+    background-color:rgb(246, 206, 3); 
+
 }
 .Github{
     background-color: rgb(46,164,79);
@@ -65,6 +77,13 @@
     width:230px;
     margin-right:3px;
     cursor:pointer;
+    transition:background-color 0.8s, color 0.8s;
+}
+.Linkedin:hover{
+    background-color: white;
+    color:rgb(10,102,194);
+    border: 2px solid rgb(10,102,194);
+    
 }
 .Link{
     background-color: white;

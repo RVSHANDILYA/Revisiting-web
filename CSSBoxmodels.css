@@ -1,0 +1,93 @@
+.strech{
+    background-color: rgb(201, 0, 0);
+    color:white;
+    padding-top:10px;
+    padding-left:10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    border:none;
+    font-weight: bold;
+    border-radius:3px;
+    transition: font-size 0.7s;
+
+}
+.strech:hover{
+    font-size:30px;
+}
+.shadow{
+    background-color: rgb(204, 0, 0);
+    color:white;
+    font-weight: bold;
+    padding-top:10px;
+    padding-left:10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    border:none;
+    border-radius:3px;
+    transition: box-shadow 0.6s;
+
+}
+.shadow:hover{
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.30);
+}
+.f{
+    background-color: green;
+    color:white;
+    font-size: bold;
+    border:none;
+    padding-top:10px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-bottom:10px;
+    border-radius:3px;
+    margin-left:10px;
+    margin-right:10px;
+    
+
+}
+.f:hover{
+    padding-left:30px;
+    padding-right:30px;
+    margin-left:0px;
+    margin-right:0px;
+}
+.s{
+    background-color: green;
+    color:white;
+    font-size: bold;
+    border:none;
+    padding-top:10px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-bottom:10px;
+    border-radius:3px;
+    margin-left:10px;
+    margin-right:10px;
+   
+
+}
+.s:hover{
+    padding-left:30px;
+    padding-right:30px;
+    margin-left:0px;
+    margin-right:0px;
+}
+.t{
+    background-color: green;
+    color:white;
+    font-size: bold;
+    border:none;
+    padding-top:10px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-bottom:10px;
+    border-radius:3px;
+    margin-left:10px;
+    margin-right:10px;
+}
+.t:hover{
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
